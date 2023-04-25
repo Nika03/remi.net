@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6+FGRxb9KgEYcyvF9v2kvdc7jRkctu22rPWhLdzf5i7X3E8/XnxmJrQF3X8l5ZDiuRRwkDCgVdjOIsC9J/hCg==",
+  "success": true,
+  "projectFilePath": "/home/nika/remi.net/remi.net.csproj",
+  "expectedPackageFiles": [
+    "/home/nika/.nuget/packages/discord.net/3.10.0/discord.net.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.commands/3.10.0/discord.net.commands.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.core/3.10.0/discord.net.core.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.interactions/3.10.0/discord.net.interactions.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.rest/3.10.0/discord.net.rest.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.webhook/3.10.0/discord.net.webhook.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/discord.net.websocket/3.10.0/discord.net.websocket.3.10.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/dotenv.net/3.1.2/dotenv.net.3.1.2.nupkg.sha512",
+    "/home/nika/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/nika/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/system.interactive.async/5.0.0/system.interactive.async.5.0.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/system.linq.async/5.0.0/system.linq.async.5.0.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
